@@ -31,11 +31,11 @@ After that follow the below steps to activate it.
 
 
 # Screenshots 📸
-![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/images/01.png)
+![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/main/images/01.png)
 
-![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/images/02.png)
+![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/main/images/02.png)
 
-![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/images/03.png)
+![Image](https://raw.githubusercontent.com/sritzone/IDM-Activation-Script/main/images/03.png))
 
 # Info ℹ️
 ## Freeze Trial 🥶
